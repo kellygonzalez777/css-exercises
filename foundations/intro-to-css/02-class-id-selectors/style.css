@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd{
    background-color: lightpink;
-   font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+   font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 .big{
@@ -15,6 +15,5 @@
 
 #unique{
     background-color: lightgreen;
-    font-size:24px;
     font-weight: bold;
 }
